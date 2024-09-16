@@ -5,7 +5,7 @@ This repository includes a collection of research papers that I have read and an
 ## Contents
 
 ### YOLO by Joseph Redmon et al
-- [**Papers**](https://arxiv.org/abs/1506.02640v1)
+- [**Paper**](https://arxiv.org/abs/1506.02640v1)
 - [**Annotations**](https://github.com/abdullahejazjanjua/annotated-papers/blob/main/YOLOv1.pdf).
   
 ## Purpose
