@@ -4,7 +4,7 @@ This repository includes a collection of research papers that I have read and an
 
 # Papers
 
-## Yolo v1
+### Yolo v1
 Link to [paper](https://arxiv.org/abs/1506.02640v1)
 - [YoloV1](https://github.com/abdullahejazjanjua/annotated-papers/blob/main/YOLOv1.pdf) by Joseph Redmon et al.
 
