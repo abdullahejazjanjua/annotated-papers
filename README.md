@@ -4,13 +4,13 @@ This repository includes a collection of research papers that I have read and an
 
 ## Contents
 
-### 1. YOLO by Joseph Redmon et al
-- [**Paper**](https://arxiv.org/abs/1506.02640v1)
-- [**Annotations**](https://github.com/abdullahejazjanjua/annotated-papers/blob/main/YOLOv1.pdf).
+- ### YOLO by Joseph Redmon et al
+  - [**Paper**](https://arxiv.org/abs/1506.02640v1)
+  - [**Annotations**](https://github.com/abdullahejazjanjua/annotated-papers/blob/main/YOLOv1.pdf).
 
-### 2. YOLO-ACN by Yongjug Li et al
-- [**Paper**](https://ieeexplore.ieee.org/document/9303478)
-- [**Annotations**](https://github.com/abdullahejazjanjua/annotated-papers/blob/main/YOLO-ACN%20Focusing%20on%20Small%20Target%20and%20Occluded%20Object%20Detection.pdf)
+- ### YOLO-ACN by Yongjug Li et al
+  - [**Paper**](https://ieeexplore.ieee.org/document/9303478)
+  - [**Annotations**](https://github.com/abdullahejazjanjua/annotated-papers/blob/main/YOLO-ACN%20Focusing%20on%20Small%20Target%20and%20Occluded%20Object%20Detection.pdf)
   
 ## Purpose
 
